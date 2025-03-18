@@ -14,9 +14,7 @@ function Layout({ children }) {
           </p>
           <p className="text-sm text-muted-foreground">
             Powered by{" "}
-            <a href="https://fakestoreapi.com" className="underline" target="_blank" rel="noreferrer">
-              Fake Store API
-            </a>
+            <span className="font-medium">Vivek</span>
           </p>
         </div>
       </footer>

@@ -31,9 +31,9 @@ export default function RootLayout({ children }) {
                     </p>
                     <p className="text-sm text-muted-foreground">
                       Powered by{" "}
-                      <a href="https://fakestoreapi.com" className="underline" target="_blank" rel="noreferrer">
+                     
                         Vivek Kumar
-                      </a>
+                    
                     </p>
                   </div>
                 </footer>
